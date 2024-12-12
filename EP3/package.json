@@ -1,0 +1,28 @@
+{
+  "name": "react_code",
+  "version": "1.0.0",
+  "description": "react code",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanzeel0/React_code.git"
+  },
+  "author": "tanzeel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanzeel0/React_code/issues"
+  },
+  "homepage": "https://github.com/tanzeel0/React_code#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
